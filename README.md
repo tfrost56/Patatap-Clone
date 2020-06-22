@@ -1,3 +1,5 @@
+#Patatap Clone
+
 This project was built as part of Colt Steele's Web Developer Bootcamp course.
 
 I used HTML, CSS, Javascript, Howler.js and Paper.js. This is a simplified clone of the famous visual sound kit application - 
